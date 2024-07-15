@@ -127,3 +127,22 @@ header{
     }
   }
 
+  .jumbutron{
+    position: relative;
+    height: 400px;
+    background-image: url(../img/jumbotron.jpg);
+
+    div{
+        height: 50px;
+        padding: 2rem;
+        margin-left: 10rem;
+        position: absolute;
+        top:356px;
+
+        h2{
+            background-color:  #0282f9;
+            padding: 1rem 1.6rem;
+            text-transform: uppercase;
+        }
+    }
+}

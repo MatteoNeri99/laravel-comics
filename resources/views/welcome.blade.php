@@ -11,6 +11,7 @@
 <body>
 
     @include('partials.header')
+    @include('partials.jumbutron')
 
 
     @include('partials.footer')
