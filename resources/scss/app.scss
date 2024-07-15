@@ -3,7 +3,7 @@
 
 footer{
     .container{
-        background-image: url(../assets/img/footer-bg.jpg);
+        background-image: url(../img/footer-bg.jpg);
         background-repeat: no-repeat ;
         background-size: cover;
         height: 500px;
@@ -95,3 +95,35 @@ footer{
         }
 
 }
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 143px;
+
+    ul{
+      display: flex;
+      list-style-type: none;
+
+      li{
+        margin-right: 2rem;
+
+
+        a{
+          color: black;
+          text-transform: uppercase;
+          font-weight: bold;
+          padding: calc(75px - 1rem) 0;
+          font-size: 1rem;
+
+          &.active{
+            color:#0282f9 ;
+            border-bottom:5px #0282f9 solid;
+
+          }
+        }
+      }
+    }
+  }
+
