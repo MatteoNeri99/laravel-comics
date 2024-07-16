@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/home', function () {
     return view('pages.home');
-});
+})->name('guest-name');
 
 Route::get('/prodotti', function () {
 
@@ -133,4 +133,4 @@ Route::get('/prodotti', function () {
 
 
     return view('pages.prodotti', compact('data'));
-});
+})->name('guest-prodotti');
