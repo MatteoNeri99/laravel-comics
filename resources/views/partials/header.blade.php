@@ -7,52 +7,52 @@
 
         <li>
 
-          <a href="#"> charaters</a>
+          <a href="/home">homepage</a>
 
         </li>
         <li>
 
-            <a href="#"> charaters</a>
+            <a href="/prodotti">prodotti</a>
 
           </li>
           <li>
 
-            <a href="#"> charaters</a>
+            <a href="#">movies</a>
 
           </li>
           <li>
 
-            <a href="#"> charaters</a>
+            <a href="#">tv</a>
 
           </li>
           <li>
 
-            <a href="#"> charaters</a>
+            <a href="#">games</a>
 
           </li>
           <li>
 
-            <a href="#"> charaters</a>
+            <a href="#">collectibles</a>
 
           </li>
           <li>
 
-            <a href="#"> charaters</a>
+            <a href="#">videos</a>
 
           </li>
           <li>
 
-            <a href="#"> charaters</a>
+            <a href="#">fans</a>
 
           </li>
           <li>
 
-            <a href="#"> charaters</a>
+            <a href="#">news</a>
 
           </li>
           <li>
 
-            <a href="#"> charaters</a>
+            <a href="#">shop</a>
 
           </li>
 

@@ -62,47 +62,47 @@
 
           <ul>
             <li>
-                <a href="#">Games</a>
+                <a href="#">terms of Use</a>
             </li>
 
             <li>
-                <a href="#">Games</a>
+                <a href="#">Privacy Police (New)</a>
             </li>
 
             <li>
-                <a href="#">Games</a>
+                <a href="#">Ad Choise</a>
             </li>
 
             <li>
-                <a href="#">Games</a>
+                <a href="#">Advertsing</a>
             </li>
 
             <li>
-                <a href="#">Games</a>
+                <a href="#">Jobs</a>
             </li>
 
             <li>
-                <a href="#">Games</a>
+                <a href="#">Subscriptions</a>
             </li>
 
             <li>
-                <a href="#">Games</a>
+                <a href="#">Talent Workshops</a>
             </li>
 
             <li>
-                <a href="#">Games</a>
+                <a href="#">CPSC Certificates</a>
             </li>
 
             <li>
-                <a href="#">Games</a>
+                <a href="#">Ratings</a>
             </li>
 
             <li>
-                <a href="#">Games</a>
+                <a href="#">Shop Help</a>
             </li>
 
             <li>
-                <a href="#">Games</a>
+                <a href="#">Conctacs Us</a>
             </li>
 
 
@@ -114,19 +114,19 @@
 
           <ul>
             <li>
-                <a href="#">Games</a>
+                <a href="#">DC</a>
             </li>
             <li>
-                <a href="#">Games</a>
+                <a href="#">Mad Magazine</a>
             </li>
             <li>
-                <a href="#">Games</a>
+                <a href="#">DC Kids</a>
             </li>
             <li>
-                <a href="#">Games</a>
+                <a href="#">DC Universe</a>
             </li>
             <li>
-                <a href="#">Games</a>
+                <a href="#">DC Power Visa</a>
             </li>
 
           </ul>
