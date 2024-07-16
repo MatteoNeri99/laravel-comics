@@ -5,7 +5,7 @@
 
     <section class="aiuto">
 
-        <p>clicca su prodotti per vedere i prodotti</p>
+        <p>clicca in alto su PRODOTTI per vedere i fumetti</p>
 
     </section>
 

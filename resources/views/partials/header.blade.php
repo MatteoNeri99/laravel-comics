@@ -7,12 +7,12 @@
 
         <li>
 
-          <a href="/home">homepage</a>
+          <a href="/home" class="{{ Route::currentRouteName() === 'guest-home' ? 'active' : ''}}">homepage</a>
 
         </li>
         <li>
 
-            <a href="/prodotti">prodotti</a>
+            <a href="/prodotti" class="{{ Route::currentRouteName() === 'guest-prodotti' ? 'active' : '' }}">prodotti</a>
 
           </li>
           <li>
